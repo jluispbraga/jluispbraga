@@ -6,8 +6,8 @@ Desenvolvedor Full Stack
 
 ### 📊 José Braga's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=barbaracoosta&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbaracoosta&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jluispbraga&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jluispbraga&layout=compact&theme=radical)
 
 ---
 
