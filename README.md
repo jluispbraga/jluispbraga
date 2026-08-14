@@ -58,8 +58,6 @@ automação de rotinas operacionais.
 
 ### Atividade no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.
-app/api?username=jluispbraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jluispbraga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-
-langs/?username=jluispbraga&layout=compact&theme=tokyonight)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jluispbraga&layout=compact&theme=tokyonight)
