@@ -10,9 +10,13 @@ Analista de Sistemas na **Fundação Paulo Feitoza (FPF Tech)**, atuando no dese
 
 ### Sobre Mim
 
-- Atuação no desenvolvimento de sistemas corporativos, APIs robustas e arquiteturas escaláveis.
-- Foco em engenharia de dados moderna, armazenamento distribuído e integração de modelos de IA com bancos relacionais e vetoriais.
-- Experiência prática nos ecossistemas **.NET / C#**, **Java**, **Python** e desenvolvimento web com **React & TypeScript**.
+- Atuação no desenvolvimento de sistemas, pipelines de dados e soluções de inteligência artificial na **FPFtech**.
+- Especialização prática em **Engenharia de Big Data & Lakehouse** utilizando Databricks, Apache Spark, PySpark e otimização
+de consultas SQL.
+- Pesquisa e implementação de modelos de Deep Learning pelo **Núcleo de Capacitação em Inteligência Artificial (NCIA)**,
+abrangendo Transformers, PyTorch, Redes Convolucionais (CNNs), Modelos de Difusão e Visão Computacional.
+- Experiência em desenvolvimento backend com Python (Django REST Framework), C# / .NET, Java e bancos de dados relacionais
+(PostgreSQL, SQLite), além de interfaces com Angular e React / TypeScript.
 - Localização: Manaus - AM, Brasil.
 
 ---
@@ -46,13 +50,17 @@ automação de rotinas operacionais.
 
 ---
 
-### Tecnologias & Ferramentas
+### Competências & Stack Tecnológica
 
-| Área | Tecnologias |
+| Domínio | Ferramentas e Tecnologias |
 | :--- | :--- |
-| **Backend & Linguagens** | C#, .NET / ASP.NET, Java / Spring, Python, TypeScript, JavaScript |
-| **Frontend & Web** | React 19, Tailwind CSS, Vite, HTML5, CSS3 |
-| **Dados, IA & Infraestrutura** | PyArrow, LanceDB, Pandas, Docker, Git, VS Code |
+| **Engenharia de Dados & Big Data** | Databricks, Apache Spark, PySpark, Data Lakehouse, Pipelines ETL, PyArrow, LanceDB,
+Otimização SQL |
+| **Inteligência Artificial & ML** | PyTorch, Transformers (NLP, Visão e Multimodalidade), CNNs, RNNs, Modelos de Difusão,
+GANs, OpenCV, Scikit-Learn |
+| **Backend & Bancos de Dados** | Python, Django REST Framework, C#, .NET, Java, PostgreSQL, SQLite, Modelagem de Dados |
+| **Frontend & Web** | TypeScript, JavaScript, Angular, Angular Material, React, Tailwind CSS, HTML5, CSS3 |
+| **DevOps & Ferramentas** | Git, Docker, Jasper Reports, Linux, VS Code |
 
 ---
 
