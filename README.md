@@ -54,10 +54,8 @@ automação de rotinas operacionais.
 
 | Domínio | Ferramentas e Tecnologias |
 | :--- | :--- |
-| **Engenharia de Dados & Big Data** | Databricks, Apache Spark, PySpark, Data Lakehouse, Pipelines ETL, PyArrow, LanceDB,
-Otimização SQL |
-| **Inteligência Artificial & ML** | PyTorch, Transformers (NLP, Visão e Multimodalidade), CNNs, RNNs, Modelos de Difusão,
-GANs, OpenCV, Scikit-Learn |
+| **Engenharia de Dados & Big Data** | Databricks, Apache Spark, PySpark, Data Lakehouse, Pipelines ETL, PyArrow, LanceDB, Otimização SQL |
+| **Inteligência Artificial & ML** | PyTorch, Transformers (NLP, Visão e Multimodalidade), CNNs, RNNs, Modelos de Difusão, GANs, OpenCV, Scikit-Learn |
 | **Backend & Bancos de Dados** | Python, Django REST Framework, C#, .NET, Java, PostgreSQL, SQLite, Modelagem de Dados |
 | **Frontend & Web** | TypeScript, JavaScript, Angular, Angular Material, React, Tailwind CSS, HTML5, CSS3 |
 | **DevOps & Ferramentas** | Git, Docker, Jasper Reports, Linux, VS Code |
