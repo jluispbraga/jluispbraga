@@ -13,8 +13,8 @@ Analista de Sistemas na **Fundação Paulo Feitoza (FPF Tech)**, atuando no dese
 - Atuação no desenvolvimento de sistemas, pipelines de dados e soluções de inteligência artificial na **FPFtech**.
 - Especialização prática em **Engenharia de Big Data & Lakehouse** utilizando Databricks, Apache Spark, PySpark e otimização
 de consultas SQL.
-- Pesquisa e implementação de modelos de Deep Learning pelo **Núcleo de Capacitação em Inteligência Artificial (NCIA)**,
-abrangendo Transformers, PyTorch, Redes Convolucionais (CNNs), Modelos de Difusão e Visão Computacional.
+- Pesquisa e aplicação de Deep Learning e Machine Learning (PyTorch, Transformers, Visão Computacional e NLP) no **Núcleo de
+  Capacitação em Inteligência Artificial (NCIA)**.
 - Experiência em desenvolvimento backend com Python (Django REST Framework), C# / .NET, Java e bancos de dados relacionais
 (PostgreSQL, SQLite), além de interfaces com Angular e React / TypeScript.
 - Localização: Manaus - AM, Brasil.
