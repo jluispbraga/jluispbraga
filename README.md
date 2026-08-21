@@ -23,28 +23,28 @@ de consultas SQL.
 
 ### Projetos em Destaque
 
-#### Enterprise Multimodal Lakehouse
-Arquitetura de Data Lakehouse multimodal que unifica armazenamento de objetos não estruturados (vídeo, áudio, imagem e
-documentos), metadados relacionais e embeddings vetoriais com suporte a **Hybrid Search (SQL Pushdown + Cosine Similarity)** e
-zero duplicação de dados (*zero-copy*).
+#### 🚀 Enterprise Multimodal Lakehouse
+Arquitetura de Data Lakehouse multimodal que unifica armazenamento de objetos não estruturados (vídeos, áudios, imagens e documentos), metadados relacionais e embeddings vetoriais com suporte a **Hybrid Search (SQL Pushdown + Cosine Similarity)** e zero duplicação de dados (*zero-copy*).
 - **Tecnologias:** Python, LanceDB, SeaweedFS (S3), PyArrow, CLIP, Sentence-Transformers, OpenCV.
 - **Repositório:** [multimodal-lakehouse](https://github.com/jluispbraga/multimodal-lakehouse)
 
-#### Gerenciador de Clubes de Leitura
-Aplicação web moderna para gerenciamento completo de clubes de leitura, com roteamento dinâmico client-side, validações em
-tempo real, componentes acessíveis e gerenciamento de estado global com React Context e Reducer.
+#### 🧠 Scikit-Learn Machine Learning Suite
+Suite modular de Machine Learning contendo pipelines completos de pré-processamento, engenharia de atributos, treino e avaliação de modelos de classificação e regressão, com documentação bilíngue e código pronto para produção.
+- **Tecnologias:** Python, Scikit-Learn, Pandas, NumPy, Jupyter Notebook.
+- **Repositório:** [scikit-learn-fundamentos](https://github.com/jluispbraga/scikit-learn-fundamentos)
+
+#### ⚛️ Quantum Computing & Bell States
+Implementação e análise prática de circuitos quânticos, fundamentos de superposição, entrelaçamento, portas lógicas e estudo detalhado dos 4 estados de Bell ($|\Phi^+\rangle$, $|\Phi^-\rangle$, $|\Psi^+\rangle$, $|\Psi^-\rangle$).
+- **Tecnologias:** Python, Jupyter Notebooks, Computação Quântica.
+- **Repositório:** [quantum-computing](https://github.com/jluispbraga/quantum-computing) | [quantum-computing-en](https://github.com/jluispbraga/quantum-computing-en)
+
+#### 📚 Gerenciador de Clubes de Leitura
+Aplicação web moderna para gerenciamento completo de clubes de leitura, com roteamento dinâmico client-side, validações em tempo real, componentes acessíveis e gerenciamento de estado global com React Context e Reducer.
 - **Tecnologias:** React 19, TypeScript, Tailwind CSS, shadcn/ui, Wouter, Vite.
 - **Repositório:** [clubes-leitur](https://github.com/jluispbraga/clubes-leitur)
 
-#### Backend & Engenharia de Sistemas
-Aplicações corporativas e microsserviços desenvolvidos com C# / .NET e Java, explorando persistência de dados, padrões de
-arquitetura, testes automatizados e integração de APIs REST.
-- **Tecnologias:** C#, .NET / ASP.NET, Java / Spring, SQL, Git.
-- **Repositórios:** [Ver Repositórios](https://github.com/jluispbraga?tab=repositories)
-
-#### Automação & Controle de Estoque
-Sistemas e scripts em Python integrados a bancos de dados para controle de inventário, processamento de dados e 
-automação de rotinas operacionais.
+#### 📦 Automação & Controle de Estoque
+Sistema em Python integrado a banco de dados relacional para gerenciamento de estoque, movimentação de inventário e automação de processos operacionais com persistência e manipulação de dados.
 - **Tecnologias:** Python, SQLite / PostgreSQL, Pandas.
 - **Repositório:** [stock-control](https://github.com/jluispbraga/stock-control)
 
